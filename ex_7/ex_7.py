@@ -1,6 +1,5 @@
 '''
 * Oz Shlomi Amoyal
-* 207231663
 * ex_7
 '''
 from my_plot import plot
